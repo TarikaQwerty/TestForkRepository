@@ -9,4 +9,13 @@ public class Student {
 		
 		
 	}
+ 
+	
+	public void toString(){
+	
+		System.out.println("Adding tostring method new:");
+		
+	}
+ 
+ 
 }
